@@ -9,7 +9,7 @@ Hello world. **"Boxed"** is the Wordpress Theme for the blog [sakainote](http://
 
 Like this.
 
-![sakainote](https://github.com/ryoxsakai/wordpress-septemble/blob/master/sakairyotokyo.png?raw=true)
+![sakainote](https://github.com/ryoxsakai/wordpress-boxed/blob/master/boxedimage.png?raw=true)
 
 ## Details
 
