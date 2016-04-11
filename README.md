@@ -1,9 +1,9 @@
 # "Boxed" the Wordpress theme.
 
-Hello world. **"Boxed"** is the Wordpress Theme for the blog [sakainote](http://sakairyo.tokyo).
+Hello world. **"Boxed"** is the Wordpress Theme for the blog [sakainote](http://sakainote.com).
 
 > *In Japanese*
-> こんにちは。**"Boxed"**は[RYO OF THE DAY](http://sakairyo.tokyo)というブログのWordpressテーマです。
+> こんにちは。**"Boxed"**は[sakainote](http://sakainote.com)というブログのWordpressテーマです。
 
 ## How it is like
 
